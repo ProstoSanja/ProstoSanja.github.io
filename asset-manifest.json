@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a99f982.css",
+    "main.js": "/static/js/main.47a443ff.js",
+    "static/media/reddit.svg": "/static/media/reddit.70ac5f588828d30a65470bcdd2b36c49.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.c2f4b8b7dccabdf7f7ca75bfe9e2f318.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.68f39f2e6921dd40367bd81467dcff89.svg",
+    "static/media/eth.svg": "/static/media/eth.4d4f018e27a1d4bc90daf9b20e286beb.svg",
+    "main.7a99f982.css.map": "/static/css/main.7a99f982.css.map",
+    "main.47a443ff.js.map": "/static/js/main.47a443ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a99f982.css",
+    "static/js/main.47a443ff.js"
+  ]
+}
